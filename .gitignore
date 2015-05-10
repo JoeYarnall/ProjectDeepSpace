@@ -5,9 +5,27 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
-#Unity
-obj/
-Temp
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
